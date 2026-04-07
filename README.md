@@ -173,7 +173,7 @@ DSA-CPP/
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/indrajit-kumar-221284218/)
-* 💻 GitHub: (Add your profile)
+* 💻 GitHub: (https://github.com/indrajitkumar23541-a11y)
 * 📧 Email: (indrajitkumar23541@gmail.com)
 
 ---
