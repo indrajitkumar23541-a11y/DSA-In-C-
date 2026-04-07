@@ -1,7 +1,7 @@
 # 🚀 DSA IN C++
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DSA+in+C%2B%2B;From+Beginner+to+Advanced;Building+Problem+Solving+Mindset;Future+Software+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DSA+in+C%2B%2B;From+Beginner+to+Advanced;Building+Problem+Solving+Mindset;"/>
 </p>
 
 <p align="center">
@@ -106,27 +106,27 @@ DSA-CPP/
 
 ---
 
-## 📊 Live Progress Dashboard
+## 📊 Live Progress Dashboard (Real-Time)
 
-| Topic     | Progress        |
-| --------- | --------------- |
-| Basics    | ██████████ 100% |
-| Arrays    | ███████░░░ 70%  |
-| Strings   | ██████░░░░ 60%  |
-| Recursion | ███░░░░░░░ 30%  |
-| Trees     | ░░░░░░░░░░ 0%   |
-| Graphs    | ░░░░░░░░░░ 0%   |
-| DP        | ░░░░░░░░░░ 0%   |
+| Topic     | Solved / Target | Progress        |
+|----------|----------------|----------------|
+| Basics    | 50 / 50        | ██████████ 100% |
+| Arrays    | 25 / 50        | █████░░░░░ 50%  |
+| Strings   | 18 / 40        | ████░░░░░░ 45%  |
+| Recursion | 10 / 30        | ██░░░░░░░░ 33%  |
+| Trees     | 0 / 40         | ░░░░░░░░░░ 0%   |
+| Graphs    | 0 / 35         | ░░░░░░░░░░ 0%   |
+| DP        | 0 / 50         | ░░░░░░░░░░ 0%   |
 
 ---
 
 ## 🔥 Daily Tracker (Consistency System)
 
-| Day   | Problems | Topic     |
-| ----- | -------- | --------- |
-| Day 1 | 3        | Arrays    |
-| Day 2 | 5        | Strings   |
-| Day 3 | 2        | Recursion |
+| Date       | Problems | Topic         | Status |
+|-----------|---------|--------------|--------|
+| 2026-04-05 | 3       | Arrays       | ✅ Done |
+| 2026-04-06 | 5       | Strings      | ✅ Done |
+| 2026-04-07 | 2       | Recursion    | 🔄 Ongoing |
 
 ---
 
@@ -150,18 +150,22 @@ DSA-CPP/
 
 ---
 
+## 📊 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=baloo&ext=heatmap"/>
+</p>
+
 ## 📈 GitHub Analytics
 
+### 🚀 My Coding Activity & Consistency
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=indrajitkumar23541-a11y&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrajitkumar23541-a11y&theme=tokyo-night"/>
 </p>
 
 ---
