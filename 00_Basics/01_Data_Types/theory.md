@@ -2,7 +2,7 @@
 
 =>Data types specify the type of data that a variable can store. Whenever a variable is defined in C++, the compiler allocates memory for that variable based on the data type with which it is declared. Please note that every data type may require a different amount of memory.
 
-![C++ Data Types](./Data-Types-in-C-2.webp)
+![C++ Data Types](./Data-Type-in-C-2.webp)
 
 ## Example of integer data type.
 
