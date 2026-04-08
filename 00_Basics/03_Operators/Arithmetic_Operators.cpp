@@ -12,6 +12,5 @@ int main(){
     cout<<"++b : "<<++b<<endl; // Pre-increment operator
     cout<<"--b : "<<--b<<endl; // Pre-decrement operator
     return 0;
-    
 
 }
