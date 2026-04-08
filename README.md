@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/REPO_NAME?style=social"/>
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/REPO_NAME?style=social"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=blue&style=flat"/>
+  <img src="https://img.shields.io/github/stars/indrajitkumar23541-a11y/DSA-In-C-?style=social"/>
+  <img src="https://img.shields.io/github/forks/indrajitkumar23541-a11y/DSA-In-C-?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=indrajitkumar23541-a11y&label=Profile+Views&color=blue&style=flat"/>
 </p>
 
 ---
