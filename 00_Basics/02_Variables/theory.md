@@ -178,7 +178,7 @@ Scope defines where a variable can be used in the program.
 
 ## 📊 Memory Representation
 
-![C++ Variables](./variavle-memory-management-in-cpp.png)
+![C++ Variables](./variable-memory-management-in-cpp.png)
 
 ---
 
