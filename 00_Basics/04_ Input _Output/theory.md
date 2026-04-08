@@ -1,4 +1,4 @@
-# Basic Input / Output in C++
+# Input / Output in C++
 
 In C++, data is read and written using streams, which are sequences of bytes.
 
