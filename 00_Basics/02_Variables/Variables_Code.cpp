@@ -7,6 +7,6 @@ int main() {
     cout<<"Value of x after reassignment : "<<x<<endl;
     int y = 67; // Another variable declaration and initialiazation
     cout<<"Value of y : "<<y<<endl;
-    cout<<"Sum of x and y : "<<x+y<<endl; // Using variables in an expression
+    cout<<"Sum of x and y : "<<x+y<<endl; // Using variables in an expressiongit
     return 0;
 }
