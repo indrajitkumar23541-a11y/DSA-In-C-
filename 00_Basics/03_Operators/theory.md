@@ -1,7 +1,6 @@
 # ⚙️ Operators in C++
 
-C++ operators are symbols that perform operations on variables and values.  
-They are the **foundation of programming logic**.
+C++ operators are the symbols that operate on values to perform specific mathematical or logical computations on given values. They are the foundation of any programming language.
 
 ---
 
