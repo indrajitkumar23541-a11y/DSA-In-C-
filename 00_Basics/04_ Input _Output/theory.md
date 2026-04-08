@@ -1,6 +1,4 @@
-# Basic Input / Output in C++
-
-Last Updated : 26 Mar, 2026
+# Input / Output in C++
 
 In C++, data is read and written using streams, which are sequences of bytes.
 
@@ -24,13 +22,13 @@ using namespace std;
 
 int main()
 {
-    cout << "GeeksforGeeks";
+    cout << "Indrajit Kumar";
     return 0;
 }
 ```
 
 Output  
-GeeksforGeeks  
+Indrajit Kumar   
 
 ---
 
@@ -103,7 +101,7 @@ using namespace std;
 
 int main()
 {
-    cout << "GeeksforGeeks";
+    cout << "Indrajit Kumar";
     return 0;
 }
 ```
