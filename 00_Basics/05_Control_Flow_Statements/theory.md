@@ -1,22 +1,21 @@
-# Control flow statements in Programming
+# Control flow statements in C++
 
-Last Updated : 23 Jul, 2025
 
 Control flow refers to the order in which statements within a program execute. While programs typically follow a sequential flow from top to bottom, there are scenarios where we need more flexibility. This article provides a clear understanding about everything you need to know about Control Flow Statements.
 
 ## Table of Content
 
-- What are Control Flow Statements in Programming?
-- Types of Control Flow statements in Programming
-- Conditional Statements in Programming
-- Looping Statements in Programming
-- Jump Statements in Programming
+- What are Control Flow Statements in C++?
+- Types of Control Flow statements in C++
+- Conditional Statements in C++
+- Looping Statements in C++
+- Jump Statements in C++
 
-## What are Control Flow Statements in Programming?
+## What are Control Flow Statements in C++?
 
 Control flow statements are fundamental components of programming languages that allow developers to control the order in which instructions are executed in a program. They enable execution of a block of code multiple times, execute a block of code based on conditions, terminate or skip the execution of certain lines of code, etc.
 
-## Types of Control Flow statements in Programming:
+## Types of Control Flow statements in C++:
 
 | Control Flow Statements Type | Control Flow Statement | Description |
 |----------------------------|-----------------------|-------------|
@@ -30,11 +29,11 @@ Control flow statements are fundamental components of programming languages that
 |  | return | Exits a function and returns a value to the caller. |
 |  | goto | Transfers control to a labeled statement within the same function. (Note: goto is generally discouraged due to its potential for creating unreadable and error-prone code.) |
 
-## Conditional Statements in Programming:
+## Conditional Statements in C++:
 
 Conditional statements in programming are used to execute certain blocks of code based on specified conditions. They are fundamental to decision-making in programs. Here are some common types of conditional statements:
 
-### 1. If Statement in Programming:
+### 1. If Statement in C++:
 
 The if statement is used to execute a block of code if a specified condition is true.
 
@@ -56,7 +55,7 @@ a is equal to 5
 
 ---
 
-### 2. if-else Statement in Programming:
+### 2. if-else Statement in C++:
 
 The if-else statement is used to execute one block of code if a specified condition is true, and another block of code if the condition is false.
 
@@ -81,7 +80,7 @@ a is not equal to 5
 
 ---
 
-### 3. if-else-if Statement in Programming:
+### 3. if-else-if Statement in C++:
 
 The if-else-if statement is used to execute one block of code if a specified condition is true, another block of code if another condition is true, and a default block of code if none of the conditions are true.
 
@@ -109,7 +108,7 @@ a is not equal to 5 or 10
 
 ---
 
-### 4. Ternary Operator or Conditional Operator in Programming:
+### 4. Ternary Operator or Conditional Operator in C++:
 
 In some programming languages, a ternary operator is used to assign a value to a variable based on a condition.
 
@@ -131,7 +130,7 @@ a is not equal to 5
 
 ---
 
-### 5. Switch Statement in Programming:
+### 5. Switch Statement in C++:
 
 In languages like C, C++, and Java, a switch statement is used to execute one block of code from multiple options based on the value of an expression.
 
@@ -162,11 +161,11 @@ Each programming language may have its own syntax and specific variations of the
 
 ---
 
-## Looping Statements in Programming:
+## Looping Statements in C++:
 
 Looping statements, also known as iteration or repetition statements, are used in programming to repeatedly execute a block of code.
 
-### 1. For Loop in Programming:
+### 1. For Loop in C++:
 
 ```cpp
 #include <iostream>
@@ -189,7 +188,7 @@ Output
 
 ---
 
-### 2. While Loop in Programming:
+### 2. While Loop in C++:
 
 ```cpp
 #include <iostream>
@@ -214,7 +213,7 @@ Output
 
 ---
 
-### 3. Do-while Loop in Programming:
+### 3. Do-while Loop in C++:
 
 ```cpp
 #include <iostream>
@@ -239,7 +238,7 @@ Output
 
 ---
 
-### 4. Nested Loops in Programming:
+### 4. Nested Loops in C++:
 
 ```cpp
 #include <iostream>
@@ -262,9 +261,9 @@ i=1 j=1
 
 ---
 
-## Jump Statements in Programming:
+## Jump Statements in C++:
 
-### 1. Break Statement in Programming:
+### 1. Break Statement in C++:
 
 ```cpp
 #include <iostream>
@@ -285,7 +284,7 @@ Output
 
 ---
 
-### 2. Continue Statement in Programming:
+### 2. Continue Statement in C++:
 
 ```cpp
 #include <iostream>
@@ -306,7 +305,7 @@ Output
 
 ---
 
-### 3. Return Statement in Programming:
+### 3. Return Statement in C++:
 
 ```cpp
 #include <iostream>
@@ -330,7 +329,7 @@ N is odd
 
 ---
 
-### 4. Goto Statement in Programming:
+### 4. Goto Statement in C++:
 
 ```cpp
 #include <iostream>
