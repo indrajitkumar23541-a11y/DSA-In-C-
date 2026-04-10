@@ -1,17 +1,35 @@
 # 🔁 Loops in C++
 
-In C++, loops are used to execute a block of code **multiple times**.
+In C++ programming, sometimes there is a need to perform some operation more than once or (say) n number of times. For example, suppose we want to print "Hello World" 5 times. Manually, we have to write cout for the C++ statement 5 times as shown.
+
+
+
+
+
 
 ---
 
 ## ❌ Without Loop
 
 ```cpp
-cout << "Hello World\n";
-cout << "Hello World\n";
-cout << "Hello World\n";
-cout << "Hello World\n";
-cout << "Hello World";
+#include<iostream>
+using namespace std;
+int main(){
+cout << "Hello Indrajit\n";
+cout << "Hello Indrajit\n";
+cout << "Hello Indrajit\n";
+cout << "Hello Indrajit\n";
+cout << "Hello Indrajit";
+return 0;
+}
+```
+### ✅ Output
+```
+Hello Indrajit
+Hello Indrajit
+Hello Indrajit
+Hello Indrajit
+Hello Indrajit
 ```
 
 👉 Repetitive & inefficient
@@ -26,10 +44,18 @@ using namespace std;
 
 int main() {
     for (int i = 0; i < 5; i++) {
-        cout << "Hello World\n";
+        cout << "Hello Indrajit\n";
     }
     return 0;
 }
+```
+### ✅ Output
+```
+Hello Indrajit
+Hello Indrajit
+Hello Indrajit
+Hello Indrajit
+Hello Indrajit
 ```
 
 ✔ Less code  
@@ -55,12 +81,29 @@ for (initialization; condition; update) {
     // code
 }
 ```
+The various parts of the for loop are:
+
+Initialization: Initialize the variable to some initial value.
+Test Condition: This specifies the test condition. If the condition evaluates to true, then body of the loop is executed. If evaluated false, loop is terminated.
+Update Expression: After the execution loop's body, this expression increments/decrements the loop variable by some value.
+All these together is used to create a logic and flow of the loop.
+
+
+
+
+
 
 ### Example:
 ```cpp
+#include<iostream>
+using namespace std;
+int main(){
 for (int i = 1; i <= 5; i++) {
     cout << i << " ";
 }
+return 0;
+}
+
 ```
 
 ### ✅ Output
