@@ -35,6 +35,9 @@ Square of 5 is: 25
 ---
 
 # 🎯 Why Use Functions?
+---
+![For Loop](./why_use_functions_.webp)
+
 
 ✔ Avoid code repetition  
 ✔ Make code clean & modular  
@@ -44,6 +47,9 @@ Square of 5 is: 25
 ---
 
 # 🧱 Function Syntax
+A function in C++ follows this general format: 
+---
+![keyword](./keyword.webp)
 
 ```cpp
 return_type function_name(parameters) {
