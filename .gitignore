@@ -1,0 +1,19 @@
+# Ignore compiled C++ executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore IDE configuration files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln
+*.vcxproj
+*.filters
+
+# Temporary files
+*.tmp
+*.log
