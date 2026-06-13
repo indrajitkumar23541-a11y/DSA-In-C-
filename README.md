@@ -112,7 +112,7 @@ DSA-CPP/
 |----------|----------------|----------------|
 | Basics    | 50 / 50        | ██████████ 100% |
 | Arrays    | 25 / 50        | █████░░░░░ 50%  |
-| Strings   | 18 / 40        | ████░░░░░░ 45%  |
+| Strings   | 40 / 40        | ██████████ 100% |
 | Recursion | 10 / 30        | ██░░░░░░░░ 33%  |
 | Trees     | 0 / 40         | ░░░░░░░░░░ 0%   |
 | Graphs    | 0 / 35         | ░░░░░░░░░░ 0%   |
@@ -145,7 +145,7 @@ DSA-CPP/
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo"/>
+  <img src="https://leetcard.jacoblin.cool/indrajitkumar23541?theme=dark&font=baloo"/>
 </p>
 
 ---
@@ -172,9 +172,9 @@ DSA-CPP/
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/indrajit-kumar-221284218/)
-* 💻 GitHub: (https://github.com/indrajitkumar23541-a11y)
-* 📧 Email: (indrajitkumar23541@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/indrajit-kumar-221284218/)
+* 💻 [GitHub](https://github.com/indrajitkumar23541-a11y)
+* 📧 [Email](mailto:indrajitkumar23541@gmail.com)
 
 ---
 
