@@ -17,3 +17,7 @@
 # Temporary files
 *.tmp
 *.log
+
+# clangd configuration and cache
+.clangd
+.clangd/
